@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.a{
+    height: 700vh;
+}
+
+.b{
+    height: 100vh;
+    width: 500px;
+    /* background: rgb(0, 255, 76); */
+
+}
+
+/* .c{
+    height:100vh;
+    width: 500px;
+    background: rgb(17, 0, 255); 
+} */
+
+.mystyle{
+    background: #ff937b;
+}
+@media(min-width:576px){
+    /* .a{
+        height: 210vh;
+    } */
+}
+
+@media (min-width:768px){
+    .a{
+        height: 595vh;
+    }
+    .b{
+        height: 100vh;
+        width: 500px;
+        /* background: rgb(0, 255, 76); */
+    }
+}
+
+@media (min-width:992px){}
+
+@media (min-width:1200px){}
